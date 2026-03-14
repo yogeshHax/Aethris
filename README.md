@@ -1,5 +1,5 @@
 
-<h1 align="center">Aetheris <br/> <span style="font-size: 0.6em; font-weight: 500;">Advanced Agentic AI Campaign Platform</span></h1>
+<h1 align="center">Aethris <br/> <span style="font-size: 0.6em; font-weight: 500;">Advanced Agentic AI Campaign Platform</span></h1>
 
 <p align="center">
   <strong>Plan, execute, monitor, and autonomously optimize digital marketing campaigns using Gemini 2.5 Flash and LangGraph. Built for BFSI marketing teams who demand precision, automation, and human-in-the-loop control.</strong>
