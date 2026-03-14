@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./frontend/public/logo.png" alt="Aetheris Logo" width="120" />
-</div>
 
 <h1 align="center">Aetheris <br/> <span style="font-size: 0.6em; font-weight: 500;">Advanced Agentic AI Campaign Platform</span></h1>
 
